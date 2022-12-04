@@ -1,0 +1,5 @@
+open zptxevolan01.ptx.fr.sopra         
+S152945                       
+SEP@SEP                     
+get 'S152945.TEAM.REXX(REXX01)' REXX001.txt
+quit
