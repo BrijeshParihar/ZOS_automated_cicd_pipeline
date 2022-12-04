@@ -1,5 +1,0 @@
-/*REXX */
-SAY "I am Rexx Program"
-SAY  "BYE.......!!"
-
-
